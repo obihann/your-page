@@ -1,0 +1,70 @@
+// Compass imports
+@import "compass/reset";
+@import "compass/utilities/general";
+@import "compass/css3";
+
+// 3rd party imports
+//@import "susy";
+@import "rgbapng";
+
+// global imports
+@import "typography";
+
+// grid
+$total-columns  : 12;
+$column-width   : 3.75em;
+$col-gutter: 1em;
+$row-gutter: .25em;
+
+@mixin container() {
+	width: ($total-columns * ($column-width + ($col-gutter * 2)) - ($col-gutter * 2));
+	padding: $col-gutter;
+}
+
+@mixin col($span:1, $gutter: $col-gutter) {
+	width: ($span * ($column-width + ($gutter * 2)) - ($gutter * 2));
+	margin: $col-gutter;
+}
+
+@mixin row() {
+	margin: $row-gutter;
+}
+
+// actual code
+body {
+	@include background(image-url("bg.jpg") no-repeat top left fixed);
+	@include background-size(cover);
+
+	color: #333333;
+}
+
+.page {
+	@include container();
+	@include rgba-background(rgba(170, 170, 170, 0.34902));
+
+	article {
+		@include col(12);
+
+		h1 {
+			@include row();
+			text-align: center;
+		}
+
+		h2 {
+			@include row();
+			text-align: center;
+			color: #444444;
+		}
+	}
+}
+
+/*@include at-breakpoint($break) {
+	article {
+		$main-columns: 10;
+		@include span-columns($main-columns omega, $break);
+
+		section {
+			@include span-columns(10,$main-columns)
+		}
+	}
+}*/

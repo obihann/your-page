@@ -1,0 +1,23 @@
+//@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600);
+
+//$montserrat: 'Montserrat', sans-serif;
+$opensans: 'Open Sans', sans-serif;
+
+html { 
+	font-size: 62.5%; 
+} 
+
+body {
+	font-family: $opensans;
+	font-size: 1.4rem;
+}
+
+h1 {
+	font-size: 8rem;
+	font-weight: 400;
+}
+
+h2 {
+	font-size: 2.2rem;
+}

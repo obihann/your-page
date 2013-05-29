@@ -1,0 +1,682 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"overla",
+				"overlayCanvas"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"addFr",
+				"addFriendsWithoutFacebook"
+			],
+			[
+				"addFrien",
+				"addFriendsWithFacebook"
+			],
+			[
+				"rsv",
+				"RSVPPerms"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"log",
+				"loginClick"
+			],
+			[
+				"ad",
+				"adminArea"
+			],
+			[
+				"user",
+				"userAdded"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"NewUser",
+				"NewUserView"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"view",
+				"viewEvent"
+			],
+			[
+				"ver",
+				"verifySession"
+			],
+			[
+				"ac",
+				"activeCid"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"open",
+				"openFancyBox"
+			],
+			[
+				"fancy",
+				"fancybox-inner"
+			],
+			[
+				"app",
+				"approved"
+			],
+			[
+				"render",
+				"renderThumbs"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"page",
+				"pageLimit"
+			],
+			[
+				"class",
+				"classes"
+			],
+			[
+				"pend",
+				"pendingCount"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"border-c",
+				"border-collapse"
+			],
+			[
+				"make",
+				"makeEditible"
+			],
+			[
+				"eventN",
+				"eventNameChange"
+			],
+			[
+				"startD",
+				"startDateChange"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pop",
+				"populateFinalTab"
+			],
+			[
+				"pull_",
+				"pull_facebook"
+			],
+			[
+				"social",
+				"socialMedia"
+			],
+			[
+				"consu",
+				"consumer_secret"
+			],
+			[
+				"consume",
+				"consumer_key"
+			],
+			[
+				"start",
+				"startDate"
+			],
+			[
+				"EVTS",
+				"EVTSDATE"
+			],
+			[
+				"star",
+				"startTime"
+			],
+			[
+				"data-ti",
+				"data-time-min"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"swit",
+				"switchStep"
+			],
+			[
+				"secton",
+				"sectionObj2"
+			],
+			[
+				"show",
+				"showInviteeList"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"fl",
+				"float"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/index.html.haml",
+			"settings":
+			{
+				"buffer_size": 171,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/TypeScript.sublime-build",
+	"command_palette":
+	{
+		"height": 291.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jeff/Desktop/index.html.haml",
+		"/Users/jeff/Desktop/index.html",
+		"/Users/jeff/Sites/arcadia-hope/video.html",
+		"/Users/jeff/Sites/arcadia-hope/scss/global/_interface.scss",
+		"/Users/jeff/Sites/arcadia-cote/contact.html",
+		"/Users/jeff/Sites/arcadia-cote/notes.html",
+		"/Users/jeff/Sites/arcadia-cote/about.html",
+		"/Users/jeff/Sites/arcadia-cote/scss/init.scss",
+		"/Users/jeff/Sites/arcadia-cote/scss/global/responsive.scss",
+		"/Users/jeff/Sites/arcadia-cote/downloads.html",
+		"/Users/jeff/Sites/arcadia-cote/video.html",
+		"/Users/jeff/Sites/arcadia-cote/upload.html",
+		"/Users/jeff/Sites/arcadia-cote/series.html",
+		"/Users/jeff/Sites/arcadia-cote/map.html",
+		"/Users/jeff/Sites/arcadia-cote/main.html",
+		"/Users/jeff/Sites/arcadia-cote/index.php",
+		"/Users/jeff/Sites/arcadia-cote/scss/global/about.scss",
+		"/Users/jeff/Sites/arcadia-cote/scss/global/map.scss",
+		"/Users/jeff/Sites/arcadia-cote/scss/global/upload.scss",
+		"/Users/jeff/Sites/arcadia-cote/scss/global/interface.scss",
+		"/Users/jeff/Sites/arcadia-cote/privacy.html",
+		"/Users/jeff/Sites/arcadia-cote/scss/global/colors.scss",
+		"/Users/jeff/Sites/arcadia-cote/scss/global/contact.scss",
+		"/Users/jeff/Sites/arcadia-cote/scss/global/landing.scss",
+		"/Users/jeff/Sites/arcadia-cote/scss/global/main.scss",
+		"/Users/jeff/Sites/arcadia-cote/scss/global/series.scss",
+		"/Users/jeff/Sites/arcadia-cote/scss/global/typography.scss",
+		"/Users/jeff/Sites/arcadia-cote/scss/global/video.scss",
+		"/Users/jeff/Sites/arcadia-cote/scss/global/_contact.scss",
+		"/Users/jeff/Sites/arcadia-cote/scss/responsive/_480-up.scss",
+		"/Users/jeff/Sites/arcadia-cote/scss/global/_interface.scss",
+		"/Users/jeff/Sites/arcadia-cote/scss/global/_about.scss",
+		"/Users/jeff/Sites/arcadia-cote/scss/global/_typography.scss",
+		"/Users/jeff/Sites/arcadia-cote/scss/responsive/_650-up.scss",
+		"/Users/jeff/Sites/arcadia-cote/scss/global/_map.scss",
+		"/Users/jeff/Sites/arcadia-cote/scss/responsive/_800-up.scss",
+		"/Users/jeff/Sites/arcadia-cote/scss/global/_upload.scss",
+		"/Users/jeff/Sites/arcadia-cote/index.html",
+		"/Users/jeff/Sites/arcadia-cote/js/iOS-Orientationchange-Fix.js",
+		"/Users/webbergreg/Documents/Sublime Text Projects/COTE/scss/responsive/_1500-up.scss",
+		"/Users/webbergreg/Documents/Sublime Text Projects/COTE/scss/responsive/_1200-up.scss",
+		"/Users/webbergreg/Documents/Sublime Text Projects/COTE/scss/responsive/_1000-up.scss",
+		"/Users/webbergreg/Documents/Sublime Text Projects/COTE/index.php",
+		"/Users/webbergreg/Documents/Sublime Text Projects/COTE/scss/init.scss",
+		"/Users/webbergreg/Documents/Sublime Text Projects/COTE/scss/global/_interface.scss",
+		"/Users/webbergreg/Documents/Sublime Text Projects/COTE/scss/compass_twitter_bootstrap/_font-awesome.sass",
+		"/Users/webbergreg/Documents/Sublime Text Projects/COTE/scss/compass_twitter_bootstrap/_alerts.sass",
+		"/Users/webbergreg/Documents/Sublime Text Projects/COTE/header.html",
+		"/Users/webbergreg/Library/Application Support/Sublime Text 2/Packages/User/SublimeOnSaveBuild.sublime-settings",
+		"/Users/webbergreg/Documents/Sublime Text Projects/COTE/fonts/clarendo.ttf",
+		"/Users/jeff/Sites/pinnacle/microsite/src/Connector.ts",
+		"/Users/jeff/Sites/pinnacle/microsite/php/ajax-manager.php",
+		"/Users/jeff/Sites/pinnacle/microsite/src/FormControl.ts",
+		"/Users/jeff/Sites/pinnacle/microsite/events.php",
+		"/Users/jeff/Sites/pinnacle/microsite/about.html",
+		"/Users/jeff/Sites/pinnacle/microsite/.htaccess",
+		"/Users/jeff/Sites/pinnacle/microsite/src/objects.ts",
+		"/Users/jeff/Sites/pinnacle/microsite/index.php",
+		"/Users/jeff/Sites/pinnacle/microsite/src/Main.ts",
+		"/Users/jeff/Sites/pinnacle/microsite/scss/global/_interface.scss",
+		"/Users/jeff/Sites/pinnacle/microsite/scss/extras/_facebook.scss",
+		"/Users/jeff/Sites/pinnacle/microsite/privacy.html",
+		"/Users/jeff/Sites/pinnacle/microsite/src/EventHandler.ts",
+		"/Users/jeff/Sites/pinnacle/microsite/contact.html",
+		"/Users/jeff/Sites/pinnacle/microsite/channel.html",
+		"/Users/jeff/Sites/pinnacle/microsite/scss/tool/_toolNav.scss",
+		"/Users/jeff/Sites/pinnacle/microsite/src/Animations.ts",
+		"/Users/jeff/Sites/pinnacle/microsite/scss/global/_overlays.scss",
+		"/Users/jeff/Sites/pinnacle/microsite/css/about_page.css",
+		"/Users/jeff/Sites/pinnacle/microsite/cleanPull.sh",
+		"/Applications/MAMP/bin/phpMyAdmin/config.inc.php",
+		"/Users/jeff/Sites/pinnacle/Admin/src/Main.ts",
+		"/Users/jeff/Sites/pinnacle/Admin/users/src/Main.ts",
+		"/Users/jeff/Sites/pinnacle/Admin/src/views/UsersListView.ts",
+		"/Users/jeff/Sites/pinnacle/Admin/src/views/NewUserView.ts",
+		"/Users/jeff/Sites/pinnacle/Admin/templates/NewUser.html",
+		"/Users/jeff/Sites/pinnacle/Admin/src/Connector.ts",
+		"/Users/jeff/Sites/pinnacle/Admin/php/objects/event-manager.php",
+		"/Users/jeff/Sites/pinnacle/Admin/index.php",
+		"/Users/jeff/Sites/pinnacle/Admin/templates/EventListView.html",
+		"/Users/jeff/Sites/pinnacle/Admin/src/views/EventDetailsView.ts",
+		"/Users/jeff/Sites/pinnacle/Admin/templates/TweetView.html",
+		"/Users/jeff/Sites/pinnacle/Admin/templates/SongView.html",
+		"/Users/jeff/Sites/pinnacle/Admin/templates/PhotoView.html",
+		"/Users/jeff/Sites/pinnacle/Admin/templates/FacebookStatusView.html",
+		"/Users/jeff/Sites/pinnacle/Admin/templates/CheckInView.html",
+		"/Users/jeff/Sites/pinnacle/Admin/src/views/DataItemView.ts",
+		"/Users/jeff/Sites/pinnacle/Admin/scss/style.scss",
+		"/Users/jeff/Sites/pinnacle/Admin/php/ajax-manager.php",
+		"/Users/jeff/Sites/pinnacle/Admin/php/helpers/ezdb.class.php",
+		"/Users/jeff/Sites/pinnacle/Admin/src/views/LoginView.ts",
+		"/Users/jeff/Sites/pinnacle/Admin/php/index.html",
+		"/Users/jeff/Sites/pinnacle/Admin/src/views/eventsList.ts",
+		"/Users/jeff/Sites/pinnacle/Admin/templates/EventDetailsView.html",
+		"/Users/jeff/Dropbox/Documents/JNickel/jnickel_pinnacle_app.sql",
+		"/Users/jeff/Sites/pinnacle/Admin/src/views/UserListViewItem.ts",
+		"/Users/jeff/Sites/pinnacle/Admin/src/models/Models.ts",
+		"/Users/jeff/Sites/pinnacle/Admin/templates/UsersListItem.html",
+		"/Users/jeff/Sites/pinnacle/Admin/templates/UsersList.html",
+		"/Users/jeff/Dropbox/jnickel_pinnacle_app.sql",
+		"/Users/jeff/Sites/pinnacle/Admin/php/resize.php",
+		"/Users/jeff/Sites/pinnacle/Admin/src/views/ItemsViews.ts",
+		"/Users/jeff/Sites/pinnacle/Admin/templates/PhotosView.html",
+		"/Users/jeff/Sites/pinnacle/Admin/php/thing.php",
+		"/Users/jeff/Sites/pinnacle/Admin/php/SimpleImage.php",
+		"/Users/jeff/Sites/pinnacle/Admin/templates/PhotoThumbView.html",
+		"/Users/jeff/Sites/pinnacle/Admin/src/views/ItemViews.ts",
+		"/Users/jeff/Sites/pinnacle/Admin/src/views/DataItemsView.ts",
+		"/Users/jeff/Sites/pinnacle/Admin/libraries/backbone.d.ts",
+		"/Users/jeff/Sites/pinnacle/Admin/src/views/EventsList.ts",
+		"/Users/jeff/Sites/pinnacle/Admin/templates/EventListItemView.html",
+		"/Users/jeff/Sites/pinnacle/Admin/src/views/EventListItemView.ts",
+		"/Users/jeff/Sites/pinnacle/Website/src/Main.ts",
+		"/Users/jeff/Sites/pinnacle/Admin/templates/TweetsView.html",
+		"/Users/jeff/Sites/pinnacle/Admin/templates/SongsView.html",
+		"/Users/jeff/Sites/pinnacle/Admin/templates/FacebookStatusesView.html",
+		"/Users/jeff/Sites/pinnacle/Admin/templates/CheckInsView.html",
+		"/Users/jeff/Sites/pinnacle/Admin/src/models/SongModel.ts",
+		"/Users/jeff/Sites/pinnacle/Admin/src/models/CheckInModel.ts",
+		"/Users/jeff/Sites/pinnacle/Admin/src/models/FacebookStatusModel.ts",
+		"/Users/jeff/Sites/pinnacle/Admin/src/models/EventModel.ts",
+		"/Users/jeff/Sites/pinnacle/Admin/src/models/TweetModel.ts",
+		"/Users/jeff/Sites/pinnacle/Admin/src/models/PhotoModel.ts",
+		"/Users/jeff/Sites/pinnacle/Admin/src/views/CheckinsView.ts",
+		"/Users/jeff/Sites/pinnacle/Admin/src/views/FacebookStatusesView.ts",
+		"/Users/jeff/Sites/pinnacle/Admin/src/views/TweetsView.ts",
+		"/Users/jeff/Sites/pinnacle/Admin/src/views/SongsView.ts",
+		"/Users/jeff/Sites/pinnacle/Admin/src/views/eventPhotos.ts"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/jeff/Sites/pinnacle/microsite/scss",
+			"/Users/jeff/Sites/pinnacle/microsite/src",
+			"/Users/jeff/Sites/pinnacle/Admin/src/views",
+			"/Users/jeff/Sites/pinnacle/Admin/templates",
+			"/Users/jeff/Sites/pinnacle/Admin/src/views",
+			"/Users/jeff/Sites/pinnacle/Admin/src",
+			"/Users/jeff/Sites/pinnacle/Admin/php",
+			"/Users/jeff/Sites/pinnacle/Website/scss",
+			"/Users/jeff/Sites/pinnacle/Website/js/ts-source"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"logo",
+			"	",
+			"googleMap",
+			"google",
+			"googleMap",
+			"radius",
+			"border",
+			"border-radius",
+			"rad",
+			"tw_follow",
+			"socialMediaTW",
+			"socialMediaFPO",
+			"contactForm",
+			"socialMedia",
+			"socialMediaTw",
+			"socialMediaTW",
+			"socialMediaFPO",
+			"social_buttons",
+			"headerRightContent",
+			"fb_like",
+			"tw_follow",
+			"contact",
+			"10%",
+			"socialMediaFPO",
+			"pageTitle",
+			"social_buttons",
+			"headerRightContent",
+			"fb_like",
+			"nav",
+			".pageContent",
+			"standardHeader",
+			"headerBG",
+			".headerRightContent",
+			"headerRightContent",
+			"input",
+			"headerlogo",
+			"input",
+			"#headerBG",
+			"header",
+			"#standardHeader",
+			".pageContent",
+			"standardHeader",
+			"headerLogo",
+			"nav",
+			"leftnav",
+			"left",
+			"leftnav",
+			"map",
+			"fill",
+			"stage",
+			"overlayCanvas",
+			"min-height",
+			"window.innerHeight",
+			"window.innerWidth",
+			"720px",
+			"0",
+			"gotUserData",
+			"ie10",
+			"facebook.connector",
+			"declineInviteWithFacebook",
+			"Facebook.Connector",
+			"eventPermissionsExtended",
+			"eventInvitePermissions",
+			"eventPermissionsExtended",
+			"eventPermissionsExtended\\",
+			"permissionsExtended",
+			"eventPermissionsExtended",
+			"eventPermissions",
+			"inviteFriendsRSVP",
+			"eventPermissionsExtended",
+			"eventParams",
+			"save-eve",
+			"addOrUpdateUser",
+			"about",
+			"tweet",
+			"about",
+			"rsvpPermissionsExtended",
+			"eventRSVPPermissions",
+			"checkExtendedPermissions",
+			"rsvpPermissionsExtended",
+			"fbconnect",
+			"rsvpPermissionsExtended",
+			"fbConnectRSVP",
+			"this.callback",
+			"fb_event_creation_access_token",
+			"decline-invite",
+			"rsvp",
+			"eventRSVPPermissions",
+			"eventPermissionsExtended",
+			"eventRSVPPermissions",
+			"	",
+			"eventRSVPPermissions",
+			"going",
+			"urls",
+			"fb-login",
+			"background",
+			"fb-login",
+			"socialMediaPinnacle",
+			"footerIcons",
+			"socialMediaPinnacle",
+			"tweets",
+			"tweet",
+			"console.log",
+			"existingEventsLoaded",
+			"connected",
+			"loginClick",
+			"login",
+			"window.location",
+			"setHomepage",
+			"getLoginStatus",
+			"login",
+			"connected(",
+			"loginClick",
+			"login",
+			"appData",
+			"logout",
+			"png",
+			"appOverlay",
+			"	\n",
+			"appStoreAbout",
+			"<div id=\"appOverlayWrapper\"></div>\n		<div id=\"appOverlay\">\n			<span class=\"title\">GET REPEAKS™</span>\n			<p>The REPEAKS™ app is ready for you in Google Play right now. The iTunes app is coming soon to a top near you.</p>\n			<div class=\"close\"></div>\n		</div>",
+			"appStoreAbout",
+			"landingContentRight",
+			"overlay",
+			"appStoreClick",
+			"loginview",
+			"this.usersCollection",
+			"finishReloadUsers"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"PINNACLE.Templates",
+			"enp0s3"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.html.haml",
+					"settings":
+					{
+						"buffer_size": 171,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Haml/Syntaxes/Ruby Haml.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 178.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/jeff/Sites/pinnacle/Website/sublime-text-files/microsite.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 318.0,
+	"status_bar_visible": true
+}
