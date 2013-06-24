@@ -239,7 +239,7 @@
 			"file": "app/index.html.haml",
 			"settings":
 			{
-				"buffer_size": 171,
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		}
@@ -585,7 +585,7 @@
 					"file": "app/index.html.haml",
 					"settings":
 					{
-						"buffer_size": 171,
+						"buffer_size": 0,
 						"regions":
 						{
 						},

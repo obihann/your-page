@@ -16,8 +16,40 @@ body {
 h1 {
 	font-size: 8rem;
 	font-weight: 400;
+	margin-top: .25em;
+	margin-bottom: .25em;
 }
 
 h2 {
 	font-size: 2.2rem;
+	color: #444444;
+	margin-top: .25em;
+	margin-bottom: .25em;
+}
+
+a {
+	color: #444444;
+
+	[class^="icon-"], [class*=" icon-"] {
+		text-decoration: none;
+	}
+}
+
+p {
+	margin-top: 1em;
+	margin-bottom: 1em;
+	line-height: 1.4em;
+}
+
+strong {
+	font-weight: 600;
+}
+
+i {
+	margin-left: .25em;
+	margin-right: .25em;
+
+	&:hover {
+		color: #111111;
+	}
 }

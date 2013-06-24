@@ -83,16 +83,52 @@ body {
 h1 {
   font-size: 8rem;
   font-weight: 400;
+  margin-top: .25em;
+  margin-bottom: .25em;
 }
 
-/* line 21, ../../app/scss/_typography.scss */
+/* line 23, ../../app/scss/_typography.scss */
 h2 {
   font-size: 2.2rem;
+  color: #444444;
+  margin-top: .25em;
+  margin-bottom: .25em;
 }
 
-/* line 34, ../../app/scss/init.scss */
+/* line 30, ../../app/scss/_typography.scss */
+a {
+  color: #444444;
+}
+/* line 33, ../../app/scss/_typography.scss */
+a [class^="icon-"], a [class*=" icon-"] {
+  text-decoration: none;
+}
+
+/* line 38, ../../app/scss/_typography.scss */
+p {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  line-height: 1.4em;
+}
+
+/* line 44, ../../app/scss/_typography.scss */
+strong {
+  font-weight: 600;
+}
+
+/* line 48, ../../app/scss/_typography.scss */
+i {
+  margin-left: .25em;
+  margin-right: .25em;
+}
+/* line 52, ../../app/scss/_typography.scss */
+i:hover {
+  color: #111111;
+}
+
+/* line 20, ../../app/scss/init.scss */
 body {
-  background: url('../images/bg.jpg?1370532374') no-repeat top left fixed;
+  background: url('../images/bg.jpg?1370866433') no-repeat top left fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -100,37 +136,82 @@ body {
   color: #333333;
 }
 
-/* line 41, ../../app/scss/init.scss */
+/* line 26, ../../app/scss/init.scss */
 .page {
-  width: 67em;
-  padding: 1em;
-  background: url('../images/rgbapng/aaaaaa59.png?1370532374');
+  *zoom: 1;
+  max-width: 67.75em;
+  _width: 67.75em;
+  padding-left: 1.25em;
+  padding-right: 1.25em;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+/* line 38, ../../../../.rvm/gems/ruby-1.9.3-p429/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/general/_clearfix.scss */
+.page:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* line 32, ../../app/scss/init.scss */
+article {
+  margin-left: 42.43542%;
+  margin-right: 8.48708%;
+  padding-left: 3.32103%;
+  padding-right: 3.32103%;
+  width: 49.07749%;
+  float: left;
+  margin-right: 1.84502%;
+  display: inline;
+  background: url('../images/rgbapng/aaaaaa59.png?1370866433');
   background: rgba(170, 170, 170, 0.34902);
 }
-/* line 45, ../../app/scss/init.scss */
-.page article {
-  width: 67em;
-  margin: 1em;
-}
-/* line 48, ../../app/scss/init.scss */
-.page article h1 {
-  margin: 0.25em;
-  text-align: center;
-}
-/* line 53, ../../app/scss/init.scss */
-.page article h2 {
-  margin: 0.25em;
-  text-align: center;
-  color: #444444;
+
+/* line 39, ../../app/scss/init.scss */
+.find-me {
+  margin-top: 2em;
+  margin-bottom: 2em;
+  border-top: 1px solid #999;
+  padding-top: .25em;
+  padding-bottom: .25em;
 }
 
-/*@include at-breakpoint($break) {
-	article {
-		$main-columns: 10;
-		@include span-columns($main-columns omega, $break);
-
-		section {
-			@include span-columns(10,$main-columns)
-		}
-	}
-}*/
+/* line 47, ../../app/scss/init.scss */
+button {
+  margin-top: .25em;
+  margin-bottom: .25em;
+  cursor: pointer;
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #444444), color-stop(50%, #333333), color-stop(100%, #444444));
+  background-image: -webkit-linear-gradient(#444444, #333333, #444444);
+  background-image: -moz-linear-gradient(#444444, #333333, #444444);
+  background-image: -o-linear-gradient(#444444, #333333, #444444);
+  background-image: linear-gradient(#444444, #333333, #444444);
+  font-size: 18px;
+  border: solid 1px #444;
+  color: #EEE;
+  text-shadow: 0px 0px 1px #aaaaaa;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+  border-radius: 4px;
+}
+/* line 59, ../../app/scss/init.scss */
+button .icon-envelope,
+button .icon-envelope-alt {
+  padding-right: .25em;
+}
+/* line 63, ../../app/scss/init.scss */
+button .icon-envelope-alt {
+  display: none;
+}
+/* line 68, ../../app/scss/init.scss */
+button:hover .icon-envelope-alt {
+  display: inline;
+}
+/* line 72, ../../app/scss/init.scss */
+button:hover .icon-envelope {
+  display: none;
+}
