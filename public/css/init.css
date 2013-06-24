@@ -178,8 +178,8 @@ article {
   padding-bottom: .25em;
 }
 
-/* line 47, ../../app/scss/init.scss */
-button {
+/* line 48, ../../app/scss/init.scss */
+a button {
   margin-top: .25em;
   margin-bottom: .25em;
   cursor: pointer;
@@ -198,20 +198,20 @@ button {
   -o-border-radius: 4px;
   border-radius: 4px;
 }
-/* line 59, ../../app/scss/init.scss */
-button .icon-envelope,
-button .icon-envelope-alt {
+/* line 60, ../../app/scss/init.scss */
+a button .icon-envelope,
+a button .icon-envelope-alt {
   padding-right: .25em;
 }
-/* line 63, ../../app/scss/init.scss */
-button .icon-envelope-alt {
+/* line 64, ../../app/scss/init.scss */
+a button .icon-envelope-alt {
   display: none;
 }
-/* line 68, ../../app/scss/init.scss */
-button:hover .icon-envelope-alt {
+/* line 69, ../../app/scss/init.scss */
+a button:hover .icon-envelope-alt {
   display: inline;
 }
-/* line 72, ../../app/scss/init.scss */
-button:hover .icon-envelope {
+/* line 73, ../../app/scss/init.scss */
+a button:hover .icon-envelope {
   display: none;
 }

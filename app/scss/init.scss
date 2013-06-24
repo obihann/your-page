@@ -44,33 +44,35 @@ article {
 	padding-bottom: .25em;
 }
 
-button {
-	margin-top: .25em;
-	margin-bottom: .25em;
-	cursor: pointer;
-	@include background-image(linear-gradient(#444, #333, #444));
-	font-size: 18px;
-	border: solid 1px #444;
-	color: #EEE;
-	@include single-text-shadow;
-	@include border-radius(4px);
+a {
+	button {
+		margin-top: .25em;
+		margin-bottom: .25em;
+		cursor: pointer;
+		@include background-image(linear-gradient(#444, #333, #444));
+		font-size: 18px;
+		border: solid 1px #444;
+		color: #EEE;
+		@include single-text-shadow;
+		@include border-radius(4px);
 
-	.icon-envelope,
-	.icon-envelope-alt {
-		padding-right: .25em;
-	}
-
-	.icon-envelope-alt {
-		display: none;
-	}
-
-	&:hover {
+		.icon-envelope,
 		.icon-envelope-alt {
-			display: inline;
+			padding-right: .25em;
 		}
 
-		.icon-envelope {
+		.icon-envelope-alt {
 			display: none;
+		}
+
+		&:hover {
+			.icon-envelope-alt {
+				display: inline;
+			}
+
+			.icon-envelope {
+				display: none;
+			}
 		}
 	}
 }
