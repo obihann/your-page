@@ -22,5 +22,12 @@ Grunt (http://gruntjs.com/) is a fun Node tool that manages the project, refresh
 	npm install
 
 ### (Step 4) Install eveyrthing else
-Run the site (finally!)
+Run the site (finally!). You should have already noticed that the un-complied code is in app, and a example is in public, which is where
+you should be compiling too. 
+
 	grunt
+	
+Now thats its running, feel free to fork this and make your own, have fun and show off yourself. If you area really up for it
+my next step for this is better integration with github, possibly running it direclty and using jekyll. I want to avoid any 
+back end server language such as PHP, or a database system as both of these will make this project much closer to a CMS than what it 
+was inteded, just a basic one page introduction site.
