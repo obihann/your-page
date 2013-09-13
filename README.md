@@ -31,3 +31,8 @@ Now thats its running, feel free to fork this and make your own, have fun and sh
 my next step for this is better integration with github, possibly running it direclty and using jekyll. I want to avoid any 
 back end server language such as PHP, or a database system as both of these will make this project much closer to a CMS than what it 
 was inteded, just a basic one page introduction site.
+
+##License
+This tool is protected by the [GNU General Public License v2](http://www.gnu.org/licenses/gpl-2.0.html).
+
+Copyright [Jeffrey Hann](http://jeffreyhann.ca/) 2013
