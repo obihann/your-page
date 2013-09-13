@@ -1,4 +1,5 @@
 # about.me
+I got fed up with [about.me](http://about.me), so I decided to create my own clone. Obviouslly any CMS type controls are missing however it provided me with a quick and free one page site.
 
 ## Installation
 
