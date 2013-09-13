@@ -3,11 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>About.me by obihann</title>
+    <title>your.page by obihann</title>
 
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <script src="javascripts/scale.fix.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -15,23 +17,31 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>About.me</h1>
-        <p>HTML5/SASS Responsive page to replicate my current about.me page. SInce they are now charging for basic features like Google Analytics I may as well do it myself.</p>
-
-        <p class="view"><a href="https://github.com/obihann/about.me">View the Project on GitHub <small>obihann/about.me</small></a></p>
-
-
+        <h1>your.page</h1>
+        <p> I got fed up with [about.me](http://about.me), so I decided to create my own clone with HTML5 and SASS. Obviouslly any CMS type controls are missing however it provided me with a quick and free one page site.</p>
+        <p class="view"><a href="https://github.com/obihann/your.page">View the Project on GitHub <small>obihann/your.page</small></a></p>
         <ul>
-          <li><a href="https://github.com/obihann/about.me/zipball/master">Download <strong>ZIP File</strong></a></li>
-          <li><a href="https://github.com/obihann/about.me/tarball/master">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="https://github.com/obihann/about.me">View On <strong>GitHub</strong></a></li>
+          <li><a href="https://github.com/obihann/your.page/zipball/master">Download <strong>ZIP File</strong></a></li>
+          <li><a href="https://github.com/obihann/your.page/tarball/master">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="https://github.com/obihann/your.page">View On <strong>GitHub</strong></a></li>
         </ul>
       </header>
       <section>
-        <h1>
-<a name="aboutme" class="anchor" href="#aboutme"><span class="octicon octicon-link"></span></a>about.me</h1>
+        <h2>
+<a name="table-of-contents" class="anchor" href="#table-of-contents"><span class="octicon octicon-link"></span></a>Table Of Contents</h2>
 
-<p>I got fed up with <a href="http://about.me">about.me</a>, so I decided to create my own clone. Obviously any CMS type controls are missing however it provided me with a quick and free one page site.</p>
+<ul>
+<li><a href="#download">Download</a></li>
+<li><a href="#installation">Installation</a></li>
+<li><a href="#credits">Credits</a></li>
+<li><a href="#license">License</a></li>
+</ul><h2>
+<a name="download" class="anchor" href="#download"><span class="octicon octicon-link"></span></a>Download</h2>
+
+<p>Our beta release can be downloaded <a href="https://github.com/obihann/your.page/archive/v.01-beta.tar.gz">here</a> or you can clone the repo like so:</p>
+
+<pre><code>git clone https://github.com/obihann/your.page.git
+</code></pre>
 
 <h2>
 <a name="installation" class="anchor" href="#installation"><span class="octicon octicon-link"></span></a>Installation</h2>
@@ -50,7 +60,7 @@
 bundle install
 </code></pre>
 
-<p>What did I justt install?!?!? Basically just SASS (<a href="http://sass-lang.com/">http://sass-lang.com/</a>), and a few plugins for it(Compass ((<a href="http://compass-style.org/)">http://compass-style.org/)</a>), Susy (<a href="http://susy.oddbird.net/">http://susy.oddbird.net/</a>), and rgbapng (<a href="https://github.com/aaronrussell/compass-rgbapng)">https://github.com/aaronrussell/compass-rgbapng)</a>)</p>
+<p>What did I justt install?!?!? Basically just <a href="http://sass-lang.com/">SASS</a>, and a few plugins for it(<a>Compass</a>, <a href="http://susy.oddbird.net/">Susy</a>, and <a href="https://github.com/aaronrussell/compass-rgbapng">rgbapng</a>)</p>
 
 <h3>
 <a name="step-11-install-node" class="anchor" href="#step-11-install-node"><span class="octicon octicon-link"></span></a>(Step 1.1) Install Node</h3>
@@ -60,9 +70,11 @@ bundle install
 <h3>
 <a name="step-2-install-grunt" class="anchor" href="#step-2-install-grunt"><span class="octicon octicon-link"></span></a>(Step 2) Install Grunt</h3>
 
-<p>Grunt (<a href="http://gruntjs.com/">http://gruntjs.com/</a>) is a fun Node tool that manages the project, refreshes dynamically, and tells us when were being extra sexy (ok, that might just be in my head... but I am right?)
-    npm install -g grunt-cli
-    npm install</p>
+<p>Grunt (<a href="http://gruntjs.com/">http://gruntjs.com/</a>) is a fun Node tool that manages the project, refreshes dynamically, and tells us when were being extra sexy (ok, that might just be in my head... but I am right?)</p>
+
+<pre><code>npm install -g grunt-cli
+npm install
+</code></pre>
 
 <h3>
 <a name="step-4-install-eveyrthing-else" class="anchor" href="#step-4-install-eveyrthing-else"><span class="octicon octicon-link"></span></a>(Step 4) Install eveyrthing else</h3>
@@ -79,18 +91,30 @@ back end server language such as PHP, or a database system as both of these will
 was inteded, just a basic one page introduction site.</p>
 
 <h2>
+<a name="credits" class="anchor" href="#credits"><span class="octicon octicon-link"></span></a>Credits</h2>
+
+<ul>
+<li>
+<a href="http://sass-lang.com/">SASS</a> - It makes coding CSS much easier</li>
+<li>
+<a href="http://compass-style.org/">Compass</a> - An amazing CSS framework for SASS</li>
+<li>
+<a href="http://susy.oddbird.net/">Susy</a> - A great responsive framework</li>
+<li>
+<a href="http://gruntjs.com/">Grunt</a> - An awesome tool to simplify builds</li>
+</ul><h2>
 <a name="license" class="anchor" href="#license"><span class="octicon octicon-link"></span></a>License</h2>
 
 <p>This tool is protected by the <a href="http://www.gnu.org/licenses/gpl-2.0.html">GNU General Public License v2</a>.</p>
 
 <p>Copyright <a href="http://jeffreyhann.ca/">Jeffrey Hann</a> 2013</p>
       </section>
-      <footer>
-        <p>This project is maintained by <a href="https://github.com/obihann">obihann</a></p>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
     </div>
-    <script src="javascripts/scale.fix.js"></script>
+    <footer>
+      <p>Project maintained by <a href="https://github.com/obihann">obihann</a></p>
+      <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
+    </footer>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
     
   </body>
 </html>
