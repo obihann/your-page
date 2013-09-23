@@ -161,7 +161,7 @@ article {
   float: left;
   margin-right: 1.84502%;
   display: inline;
-  background: url('../images/rgbapng/aaaaaa59.png?1370866433');
+  background: url('../images/rgbapng/aaaaaa59.png?1379951537');
   background: rgba(170, 170, 170, 0.34902);
 }
 
@@ -224,7 +224,7 @@ a button:hover .icon-envelope {
 @media (min-width: 55em) {
   /* line 92, ../../app/scss/init.scss */
   body {
-    background: url('../images/bg.jpg?1370866433') no-repeat top left fixed;
+    background: url('../images/bg.jpg?1379941090') no-repeat top left fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -262,7 +262,7 @@ a button:hover .icon-envelope {
     width: 49.07749%;
     float: left;
     margin-right: 1.84502%;
-    background: url('../images/rgbapng/aaaaaa59.png?1370866433');
+    background: url('../images/rgbapng/aaaaaa59.png?1379951537');
     background: rgba(170, 170, 170, 0.34902);
   }
 

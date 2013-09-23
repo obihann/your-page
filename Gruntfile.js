@@ -60,7 +60,7 @@ module.exports = function(grunt) {
     }
   });
 
-  grunt.registerTask('default', ['livereload-start', 'connect', 'regarde']);
+  grunt.registerTask('default', ['jade', 'compass']);
   grunt.loadNpmTasks('grunt-contrib-compass');
   grunt.loadNpmTasks('grunt-contrib-jade');
   grunt.loadNpmTasks('grunt-contrib-connect');
