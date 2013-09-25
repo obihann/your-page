@@ -45,6 +45,12 @@ my next step for this is better integration with github, possibly running it dir
 back end server language such as PHP, or a database system as both of these will make this project much closer to a CMS than what it 
 was inteded, just a basic one page introduction site.
 
+##ToDo
+* Clean up readme
+* Look into how we can simplify the setup process
+* Check if we can cleanup the repo
+* Add a way to display external projects
+
 ##Credits
 * [SASS](http://sass-lang.com/) - It makes coding CSS much easier
 * [Compass](http://compass-style.org/) - An amazing CSS framework for SASS
