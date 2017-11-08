@@ -1,16 +1,27 @@
 {
   "name": "about.me",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "scripts": {
+      "build": "./node_modules/.bin/grunt"
+  },
   "devDependencies": {
-    "markdown": "~0.4.0",
     "grunt": "~0.4.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-compass": "~0.2.0",
     "grunt-contrib-connect": "~0.2.0",
+    "grunt-contrib-jade": "~0.7.0",
+    "grunt-contrib-jshint": "~0.4.3",
     "grunt-contrib-livereload": "~0.1.2",
     "grunt-contrib-watch": "~0.3.1",
-    "grunt-contrib-compass": "~0.2.0",
-    "grunt-contrib-jade": "~0.7.0",
     "grunt-includes": "~0.2.2",
     "grunt-regarde": "~0.1.1",
-    "grunt-contrib-jshint": "~0.4.3"
+    "markdown": "~0.4.0"
+  },
+  "author": "Jeffrey Hann",
+  "license": "GPL-V2",
+  "homepage": "https://github.com/obihann/your-page",
+  "repository": {
+      "type": "git",
+      "url": "git@github.com:obihann/your-page.git"
   }
 }
